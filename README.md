@@ -38,4 +38,8 @@ CREATE TABLE `cdr` (
 
 4) ./import_Master_to_Mysql.pl
 
+Si vous lancez deux fois le programme, il n'importera que les nouveaux tickets
+
+
+
 
